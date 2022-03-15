@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello 👋 
+## About me: 
+  - 16y old CS Student at HTL Grieskirchen
+  - 🔭 Currently working on a website
+  - 🌱 I’m currently learning or have learned
+  - - C
+  - - JS, NodeJS
+  - - Java
+  - - C#
+  - - Python
+
 
 <!--
 **thselukas/thselukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
