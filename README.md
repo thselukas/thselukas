@@ -1,26 +1,26 @@
 ### Hello 👋 
 ## About me: 
-  - 16y old CS Student at HTL Grieskirchen, Austria
+  - 16y old CS Student at HTL Grieskirchen, Austria (<a href="https://www.htl-grieskirchen.net/index.php?id=4">Link</a>)
   - 🔭 Currently working on a website
   - 🌱 I’m currently learning or have learned: C, C#, Java, Python, JS, NodeJS
   - 💡 Interested in: Embedded Programming, 3D Printing (i am bad at it)
   - 👯 Bad Programmer (mostly)
   - 🗑️ I have only acceptable English
-  - 🔥 Friends with <a href="https://github.com/Terminator15474" style="color:red;">Terminator1574</a>
+  - 🔥 Friends with <a href="https://github.com/Terminator15474">Terminator1574</a>
   - 🔥 Favorite color is Orange
 
 ## Projects I'm currently working on:
-  - A "Webapp" with Express, NodeJS and JS (with HTML and CSS obviously) - ❌
+  - 󠀢󠀢󠀢A "Webapp" with Express, NodeJS and JS (with HTML and CSS obviously) - ❌
   - A project to learn embedded Programming - ❌
   - Get my 3D Printer to work again - ❌
 
 ## What am I really bad at:
-  - Naming GitHub repos
-  - multiple other things too 
-  - Screwing in 3D Printer Nozzles
+  - 😑 Naming GitHub repos
+  - 😞 Screwing in 3D Printer Nozzles
+  - etc...
 
 ## ⚡ Fun Facts: 
-  - I don't use the password "Password123"
+  - I don't use the password "Password123" 🛑
 
 
 <!--
