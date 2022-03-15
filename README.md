@@ -20,7 +20,7 @@
   - etc...
 
 ## ⚡ Fun Facts: 
-  - I don't use the password "Password123" 🛑
+  - I don't use the password "Passwort123" 🛑
 
 
 <!--
