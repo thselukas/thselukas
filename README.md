@@ -1,4 +1,4 @@
-### Hello 👋 
+# Hello 👋 
 ## About me: 
   - 16y old CS Student at HTL Grieskirchen, Austria (<a href="https://www.htl-grieskirchen.net/index.php?id=4">Link</a>)
   - 🔭 Currently working on a website
