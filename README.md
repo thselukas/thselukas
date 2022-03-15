@@ -3,11 +3,11 @@
   - 16y old CS Student at HTL Grieskirchen
   - 🔭 Currently working on a website
   - 🌱 I’m currently learning or have learned
-  - - C
-  - - JS, NodeJS
-  - - Java
-  - - C#
-  - - Python
+  -- C
+  -- JS, NodeJS
+  -- Java
+  -- C#
+  -- Python
 
 
 <!--
