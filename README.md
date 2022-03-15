@@ -5,8 +5,9 @@
   - 🌱 I’m currently learning or have learned: C, C#, Java, Python, JS, NodeJS
   - 💡 Interested in: Embedded Programming, 3D Printing (i am bad at it)
   - 👯 Bad Programmer (mostly)
-  - 🗑️ Bad at English
-  - 🔥 Friend with @Terminator1547
+  - 🗑️ I have only acceptable English
+  - 🔥 Friend with <a href="https://github.com/Terminator15474" style="color:red;">Terminator1574</a>
+  - 🔥 Favorite color is Orange
 
 ## Projects I'm currently working on:
   - A "Webapp" with Express, NodeJS and JS (with HTML and CSS obviously) - ❌
