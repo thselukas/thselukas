@@ -1,13 +1,20 @@
 ### Hello 👋 
 ## About me: 
-  - 16y old CS Student at HTL Grieskirchen
+  - 16y old CS Student at HTL Grieskirchen, Austria
   - 🔭 Currently working on a website
-  - 🌱 I’m currently learning or have learned
-  -- C
-  -- JS, NodeJS
-  -- Java
-  -- C#
-  -- Python
+  - 🌱 I’m currently learning or have learned: C, C#, Java, Python, JS, NodeJS
+  - 💡 Interested in: Embedded Programming, 3D Printing (i am bad at it)
+  - 👯 Bad Programmer (mostly)
+  - 🗑️ Bad at English
+
+## Projects I'm currently working on:
+  - A "Webapp" with Express, NodeJS and JS (with HTML and CSS obviously) - ❌
+  - A project to learn embedded Programming - ❌
+  - Get my 3D Printer to work again - ❌
+
+## What am I really bad at:
+  - Naming GitHub repos
+  - multiple other things too 
 
 
 <!--
