@@ -5,14 +5,14 @@
   - 🌱 I’m currently learning or have learned: C, C#, Java, Python, JS, NodeJS
   - 💡 Interested in: Embedded Programming, 3D Printing (i am bad at it)
   - 👯 Bad Programmer (mostly)
-  - 🗑️ I have only acceptable English
+  - 🗑️ I only have acceptable English
   - 🔥 Friends with <a href="https://github.com/Terminator15474">Terminator1574</a>
   - 🔥 Favorite color is Orange
 
 ## Projects I'm currently working on:
-  - 󠀢󠀢󠀢A "Webapp" with Express, NodeJS and JS (with HTML and CSS obviously) - ❌
-  - A project to learn embedded Programming - ❌
-  - Get my 3D Printer to work again - ❌
+  - 󠀢󠀢󠀢💻 A "Webapp" with Express, NodeJS and JS (with HTML and CSS obviously) - ❌
+  - 💻 A project to learn embedded Programming - ❌
+  - 💻 Get my 3D Printer to work again - ❌
 
 ## What am I really bad at:
   - 😑 Naming GitHub repos
