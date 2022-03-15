@@ -6,7 +6,7 @@
   - 💡 Interested in: Embedded Programming, 3D Printing (i am bad at it)
   - 👯 Bad Programmer (mostly)
   - 🗑️ I have only acceptable English
-  - 🔥 Friend with <a href="https://github.com/Terminator15474" style="color:red;">Terminator1574</a>
+  - 🔥 Friends with <a href="https://github.com/Terminator15474" style="color:red;">Terminator1574</a>
   - 🔥 Favorite color is Orange
 
 ## Projects I'm currently working on:
@@ -17,6 +17,10 @@
 ## What am I really bad at:
   - Naming GitHub repos
   - multiple other things too 
+  - Screwing in 3D Printer Nozzles
+
+## ⚡ Fun Facts: 
+  - I don't use the password "Password123"
 
 
 <!--
