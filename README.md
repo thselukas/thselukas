@@ -6,6 +6,7 @@
   - 💡 Interested in: Embedded Programming, 3D Printing (i am bad at it)
   - 👯 Bad Programmer (mostly)
   - 🗑️ Bad at English
+  - 🔥 Friend with @Terminator1547
 
 ## Projects I'm currently working on:
   - A "Webapp" with Express, NodeJS and JS (with HTML and CSS obviously) - ❌
